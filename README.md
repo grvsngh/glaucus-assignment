@@ -27,6 +27,7 @@ UPDATE  Number SET number=number+1
 
 SELECT * FROM Number;
 
+url : "jdbc:mysql://localhost:3306/SpringMVC", username: "root",	password: "" 
 
 
 # run command:
